@@ -1,0 +1,22 @@
+{
+  "name": "boot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "npx tailwindcss -i ./dist/css/style.css -o ./dist/css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dastanbekk/js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dastanbekk/js/issues"
+  },
+  "homepage": "https://github.com/Dastanbekk/js#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
